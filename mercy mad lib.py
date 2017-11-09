@@ -50,5 +50,5 @@ print("The " + adjective1 + " " + noun1 + " went to the " + noun2 + " to " + ver
 print("The " + adjective2 + " " + noun3 + " ate at the " + place1 + ".")
 print("After, the " + pluralnoun1 + " ran to the" + place2 + "!")
 print("At the " + place3 + " there turned out to be a " + noun3 +"!")
-print("The " + noun5 + " was" + adverb1 + " to his" + noun6 + " and finally got to" + adverb2 + "."
+print("The " + noun5 + " was" + adverb1 + " to his" + noun6 + " and finally got to" + adverb2 + ".")
 #### BEGIN MADLIB ####
